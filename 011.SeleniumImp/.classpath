@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium_k/jar/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_k/jar/junit-jupiter-api-5.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_k/jar/pdf-util-0.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_k/jar/selenium-server-4.11.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://www.selenium.dev/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium_k/jar/testng-7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_k/jar/webdrivermanager-5.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_k/jar/Tessaract/asprise-ocr-java-15.3.1-trial-windows/aocr.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_k/jar/Tessaract/jar_files (1)/tess4j-5.8.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
