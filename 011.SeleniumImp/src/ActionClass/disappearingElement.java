@@ -18,6 +18,10 @@ public class disappearingElement {
 		search.click();
 		WebElement womenShoes = driver.findElement(By.className("lrtEPN _17d0yO"));
 		womenShoes.click();
+		
+//		setTimeout(function(){debugger;}, 5000);
+//		or
+//		RC > Inspect > Source > f8 or ctrl+\
 	}
 
 }
