@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
+//import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class WDI {
 	
@@ -19,7 +19,7 @@ public class WDI {
 //			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 		} else if(browser.equals("FireFox")){
-			WebDriverManager.firefoxdriver().setup();
+//			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
 		} else if(browser.equals("Edge")) {
 			driver = new EdgeDriver();
